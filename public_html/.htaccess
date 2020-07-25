@@ -1,0 +1,15 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^([a-z0-9-]+)/?$ index.php?page=$1 [L]
+
+# Pages d'erreur
+ErrorDocument 404 http://r-thd.fr/404
+ErrorDocument 403 http://r-thd.fr/403
+ErrorDocument 401 http://r-thd.fr/401
+
+# Redirections
+RewriteRule ^([a-z0-9-]+)/?$ index.php?page=$1 [L]
+
+# Désactivation de la visualisation du système de fichier
+Options -Indexes
