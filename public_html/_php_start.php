@@ -1,7 +1,5 @@
 <?php
 
-var_dump($_SESSION["pageTitle"]);
-
 // Début de l'écriture
 ob_start();
 
