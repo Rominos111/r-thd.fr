@@ -21,26 +21,26 @@
         <meta name="handheldFriendly" content="false" />
 
         <!-- Icons -->
-        <link rel="shortcut icon" href="/resources/icons/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" sizes="180x180" href="/resources/icons/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/resources/icons/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/resources/icons/favicon-16x16.png">
-        <link rel="manifest" href="/resources/icons/site.webmanifest">
+        <link rel="shortcut icon" href="/resources/icons/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/resources/icons/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/resources/icons/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/resources/icons/favicon-16x16.png" />
+        <link rel="manifest" href="/resources/icons/site.webmanifest" />
 
         <!-- Facebook OpenGraph -->
-        <meta property="og:title" content="Romain le dev">
-        <meta property="og:type" content="website">
-        <meta property="og:description" content="Site perso de Romain le plus beau">
-        <meta property="og:image" content="/resources/icons/favicon.ico">
-        <meta property="og:url" content="www.r-thd.fr">
-        <meta property="og:locale" content="fr_FR">
-        <meta property="og:site_name" content="Romain">
+        <meta property="og:title" content="Romain le dev" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="Site perso de Romain le plus beau" />
+        <meta property="og:image" content="/resources/icons/favicon.ico" />
+        <meta property="og:url" content="www.r-thd.fr" />
+        <meta property="og:locale" content="fr_FR" />
+        <meta property="og:site_name" content="Romain" />
 
         <!-- Twitter -->
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:creator" content="@Rominos111">
-        <meta name="twitter:title" content="Romain le dev">
-        <meta name="twitter:description" content="Site perso de Romain le plus beau">
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content="@Rominos111" />
+        <meta name="twitter:title" content="Romain le dev" />
+        <meta name="twitter:description" content="Site perso de Romain le plus beau" />
 
         <!-- IE -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -63,7 +63,8 @@
         <link rel="stylesheet"
               href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
               integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
-              crossorigin="anonymous">
+              crossorigin="anonymous"
+        />
     </head>
 
     <body>
