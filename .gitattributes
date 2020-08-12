@@ -197,3 +197,9 @@ Procfile          text
 
 # Ignore files (like .npmignore or .gitignore)
 *.*ignore         text
+
+###
+# Project
+###
+
+*.php linguist-language=php
