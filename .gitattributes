@@ -203,3 +203,6 @@ Procfile          text
 ###
 
 *.php linguist-language=php
+public_html/*.php linguist-language=html
+public_html/_*.php linguist-language=php
+public_html/.htaccess linguist-language=php
